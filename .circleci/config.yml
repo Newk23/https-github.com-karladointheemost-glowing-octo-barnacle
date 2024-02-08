@@ -14,7 +14,7 @@ jobs:
     # See: https://circleci.com/docs/configuration-reference/#steps
     steps:
       - checkout
-      - run:
+      - run:634ecd1e6330d3fd395f9f878d921671456185cf
           name: "Say hello"
           command: "echo Hello, World!"
 
